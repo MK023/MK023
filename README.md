@@ -34,11 +34,29 @@ I design and run cloud-native platforms with **security-by-design**: OWASP Top 1
 
 | Project | One-liner | Stack |
 |---|---|---|
-| 🔎 **[JobSearch](https://github.com/MK023/JobSearch)** | AI-powered job search platform with CV analysis, gap analysis, cover letters. 572 test, 8-stage CI, SonarCloud Quality Gate PASS. | FastAPI · Anthropic Claude · PostgreSQL · Render · Sentry |
+| 🔎 **[JobSearch](https://github.com/MK023/JobSearch)** | AI-powered job search platform with CV analysis, gap analysis, cover letters. 1078 test, 11-stage CI, SonarCloud Quality Gate PASS, MCP server for Claude Desktop integration. | FastAPI · Anthropic Claude · PostgreSQL · Render · Sentry |
 | 📚 **[MD Vault](https://github.com/MK023/md_vault)** | Self-hosted knowledge base on **K3s in production** with **Terraform** IaC and **Cloudflare Zero Trust** tunnel. | K3s · Terraform · GCP · FastAPI · SQLite FTS5 |
 | 🅿️ **[TorinoParking](https://github.com/MK023/TorinoParking)** | Real-time parking availability API with HMAC-SHA256 key hashing, multi-tier rate limiting, threat model docs. | FastAPI · PostgreSQL/PostGIS · Redis · testcontainers |
 | 🐇 **[RabbitWatch](https://github.com/MK023/RabbitWatch)** | Self-healing monitoring control-plane: FastAPI health checks + RabbitMQ event bus + automated recovery. | FastAPI · Prometheus · Grafana · Alertmanager · RabbitMQ · MongoDB |
 | 🧠 **[HappyKube](https://github.com/MK023/HappyKube)** | AI emotion analysis Telegram bot in production for 2+ years. Clean Architecture, Fernet PII encryption. | Flask · Groq LLaMA · PostgreSQL · Redis · Docker |
+
+---
+
+## Live in production
+
+These are running and reachable right now — same engineering discipline I'd apply at scale, on infrastructure I pay for and operate myself:
+
+- 🌐 **[jobsearches.cc](https://jobsearches.cc)** — JobSearch web UI · [API health](https://api.jobsearches.cc/health)
+- 🌐 **[mdvault.site](https://mdvault.site)** — MD Vault on K3s + Cloudflare Tunnel (private knowledge base, auth-walled)
+- 🤖 **[@happykube_bot](https://t.me/happykube_bot)** — HappyKube emotion analysis bot on Telegram · [API health](https://happykube.fly.dev/healthz)
+
+Total monthly operating cost across all three: under €20. Cost-engineering as a deliberate design constraint, not an accident.
+
+---
+
+## Currently learning
+
+Preparing **CKA (Certified Kubernetes Administrator)** for Q3 2026 to certify the production K8s experience already deployed in MD Vault. Roadmap continues with **CKS (Kubernetes Security Specialist)** in 2027 to anchor the security side of the Cloud Platform & Security positioning. The path is K8s → in-flight AWS/Azure certs during the next role, not the other way around.
 
 ---
 
