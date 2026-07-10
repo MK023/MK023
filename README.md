@@ -27,10 +27,11 @@
 
 I build and run cloud-native platforms with **security-by-design** — and I genuinely enjoy the boring production problems (graceful shutdowns, credential rotation, real backups, postmortems) more than the shiny demos. Shiny demos don't page you at 3am. Boring infrastructure doesn't either.
 
-- 🔭 Just shipped: **[marcobellingeri.dev](https://marcobellingeri.dev)** — a site that *audits itself*. The Security section reads its own response headers live, and the A+ grade in the hero isn't a claim: it links to a [Mozilla Observatory scan](https://developer.mozilla.org/en-US/observatory/analyze?host=marcobellingeri.dev) you can re-run right now.
+- 🔭 Just shipped: **[marcobellingeri.dev](https://marcobellingeri.dev)** — a site that *audits itself*. The Security section reads its own response headers live, and the A+ in the hero isn't a claim: it links to a [Mozilla Observatory scan](https://developer.mozilla.org/en-US/observatory/analyze?host=marcobellingeri.dev) you can re-run right now.
 - 🖥️ There's a hidden CRT terminal on it. `⌘K` is one way in. There's another.
-- 📚 Preparing **CKA** (Q3 2026), then CKS — certifying the Kubernetes I already run in production, not the other way around.
-- 🏗️ Past production ownership: Rome Metro Line C (400+ video endpoints, 24/7), Etihad Airways network diagnostics, enterprise debt-collection platform on AWS serverless.
+- ⚡ Proudest fix so far: a cache that kept invalidating itself. Rewrote the Redis layer in production, zero downtime — the critical query came out **41× faster**. The most expensive bug is usually the most boring one.
+- 🔐 Every repo I ship carries its own security gates in CI — CodeQL, Gitleaks, Bandit, pip-audit — and a written threat model. Vulnerabilities get stopped at the PR, not patched in production at 3am.
+- 🚇 I cut my teeth keeping **400+ video endpoints** alive on Rome's Metro Line C, around the clock. CKA on the way (Q3 2026) — the cluster came first, the paperwork is catching up.
 
 ### 🛠️ Tech Stack
 
