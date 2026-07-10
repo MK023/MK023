@@ -23,7 +23,7 @@
 
 ---
 
-### `$ whoami`
+### 💻 `$ whoami`
 
 Freelance **Cloud Platform & Security Engineer**. I take cloud infrastructure that is already in production and make it reliable and secure — automation, CI/CD with blocking security gates, hardening, observability.
 
@@ -31,9 +31,11 @@ Freelance **Cloud Platform & Security Engineer**. I take cloud infrastructure th
 - 🔐 Every repo I ship carries security gates in CI (CodeQL, Gitleaks, Bandit, pip-audit), tests that actually run, and a written threat model.
 - 🖥️ There's a hidden CRT terminal on the site. `⌘K` is one way in. There's another.
 
+---
+
 ### 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
@@ -55,38 +57,55 @@ Freelance **Cloud Platform & Security Engineer**. I take cloud infrastructure th
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
+---
+
 ### 📦 Things I've built
 
 <p align="center">
-<a href="https://github.com/MK023/marcobellingeri.dev"><img src="https://opengraph.githubassets.com/1/MK023/marcobellingeri.dev" width="49%" alt="marcobellingeri.dev" /></a>
-<a href="https://github.com/MK023/JobSearch"><img src="https://opengraph.githubassets.com/1/MK023/JobSearch" width="49%" alt="JobSearch" /></a>
-<a href="https://github.com/MK023/TorinoParking"><img src="https://opengraph.githubassets.com/1/MK023/TorinoParking" width="49%" alt="TorinoParking" /></a>
-<a href="https://github.com/MK023/RabbitWatch"><img src="https://opengraph.githubassets.com/1/MK023/RabbitWatch" width="49%" alt="RabbitWatch" /></a>
-<a href="https://github.com/MK023/HappyKube"><img src="https://opengraph.githubassets.com/1/MK023/HappyKube" width="49%" alt="HappyKube" /></a>
-<a href="https://github.com/MK023/vetreriamonferrina.com"><img src="https://opengraph.githubassets.com/1/MK023/vetreriamonferrina.com" width="49%" alt="vetreriamonferrina.com" /></a>
+  <a href="https://github.com/MK023/marcobellingeri.dev"><img src="https://opengraph.githubassets.com/1/MK023/marcobellingeri.dev" width="49%" alt="marcobellingeri.dev" /></a>
+  <a href="https://github.com/MK023/JobSearch"><img src="https://opengraph.githubassets.com/1/MK023/JobSearch" width="49%" alt="JobSearch" /></a>
+  <a href="https://github.com/MK023/TorinoParking"><img src="https://opengraph.githubassets.com/1/MK023/TorinoParking" width="49%" alt="TorinoParking" /></a>
+  <a href="https://github.com/MK023/RabbitWatch"><img src="https://opengraph.githubassets.com/1/MK023/RabbitWatch" width="49%" alt="RabbitWatch" /></a>
+  <a href="https://github.com/MK023/HappyKube"><img src="https://opengraph.githubassets.com/1/MK023/HappyKube" width="49%" alt="HappyKube" /></a>
+  <a href="https://github.com/MK023/vetreriamonferrina.com"><img src="https://opengraph.githubassets.com/1/MK023/vetreriamonferrina.com" width="49%" alt="vetreriamonferrina.com" /></a>
 </p>
 
-🌐 **Live right now:** [marcobellingeri.dev](https://marcobellingeri.dev) · [jobsearches.cc](https://jobsearches.cc) · [vetreriamonferrina.com](https://vetreriamonferrina.com) — running on infrastructure I operate myself.
+<p align="center">
+  🌐 <strong>Live right now:</strong>
+  <a href="https://marcobellingeri.dev">marcobellingeri.dev</a> ·
+  <a href="https://jobsearches.cc">jobsearches.cc</a> ·
+  <a href="https://vetreriamonferrina.com">vetreriamonferrina.com</a><br/>
+  <sub>running on infrastructure I operate myself</sub>
+</p>
+
+---
 
 ### 📊 Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/FF5A1F/MK023" alt="Contribution graph" width="100%" />
+  <img src="https://ghchart.rshah.org/FF5A1F/MK023" alt="Contribution graph" width="90%" />
 </p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MK023&theme=default&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=MK023&theme=default&hide_border=false" alt="GitHub streak" />
 </p>
+
+---
 
 ### 📜 Certifications
 
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-IT%20Specialist%20Cybersecurity-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![LPI Linux Essential](https://img.shields.io/badge/LPI-Linux%20Essential-FCC624?style=flat&logo=linux&logoColor=black)
-![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-181717?style=flat&logo=github&logoColor=white)
-![Python PCEP](https://img.shields.io/badge/Python-PCEP%2030--02-3776AB?style=flat&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Python%20Developer-47A248?style=flat&logo=mongodb&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" />
+  <img src="https://img.shields.io/badge/Cisco-IT%20Specialist%20Cybersecurity-1BA0D7?style=flat&logo=cisco&logoColor=white" alt="Cisco Cybersecurity" />
+  <img src="https://img.shields.io/badge/LPI-Linux%20Essential-FCC624?style=flat&logo=linux&logoColor=black" alt="LPI Linux Essential" />
+  <img src="https://img.shields.io/badge/GitHub-Foundations-181717?style=flat&logo=github&logoColor=white" alt="GitHub Foundations" />
+  <img src="https://img.shields.io/badge/Python-PCEP%2030--02-3776AB?style=flat&logo=python&logoColor=white" alt="Python PCEP" />
+  <img src="https://img.shields.io/badge/MongoDB-Python%20Developer-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB Python Developer" />
+</p>
 
-All verifiable on [Credly](https://credly.com/users/marco-bellingeri) — badges you can click are worth more than badges you can claim.
+<p align="center">
+  <sub>All verifiable on <a href="https://credly.com/users/marco-bellingeri">Credly</a> — badges you can click are worth more than badges you can claim.</sub>
+</p>
 
 ---
 
