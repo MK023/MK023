@@ -25,13 +25,11 @@
 
 ### `$ whoami`
 
-I build and run cloud-native platforms with **security-by-design** — and I genuinely enjoy the boring production problems (graceful shutdowns, credential rotation, real backups, postmortems) more than the shiny demos. Shiny demos don't page you at 3am. Boring infrastructure doesn't either.
+Freelance **Cloud Platform & Security Engineer**. I take cloud infrastructure that is already in production and make it reliable and secure — automation, CI/CD with blocking security gates, hardening, observability.
 
-- 🔭 Just shipped: **[marcobellingeri.dev](https://marcobellingeri.dev)** — a site that *audits itself*. The Security section reads its own response headers live, and the A+ in the hero isn't a claim: it links to a [Mozilla Observatory scan](https://developer.mozilla.org/en-US/observatory/analyze?host=marcobellingeri.dev) you can re-run right now.
-- 🖥️ There's a hidden CRT terminal on it. `⌘K` is one way in. There's another.
-- ⚡ Proudest fix so far: a cache that kept invalidating itself. Rewrote the Redis layer in production, zero downtime — the critical query came out **41× faster**. The most expensive bug is usually the most boring one.
-- 🔐 Every repo I ship carries its own security gates in CI — CodeQL, Gitleaks, Bandit, pip-audit — and a written threat model. Vulnerabilities get stopped at the PR, not patched in production at 3am.
-- 🚇 I cut my teeth keeping **400+ video endpoints** alive on Rome's Metro Line C, around the clock. CKA on the way (Q3 2026) — the cluster came first, the paperwork is catching up.
+- 🔭 Proof of work: **[marcobellingeri.dev](https://marcobellingeri.dev)** *audits itself* — the Security section reads its own response headers live, the A+ links to a [Mozilla Observatory scan](https://developer.mozilla.org/en-US/observatory/analyze?host=marcobellingeri.dev) anyone can re-run, and every merge to `main` deploys itself through CI.
+- 🔐 Every repo I ship carries security gates in CI (CodeQL, Gitleaks, Bandit, pip-audit), tests that actually run, and a written threat model.
+- 🖥️ There's a hidden CRT terminal on the site. `⌘K` is one way in. There's another.
 
 ### 🛠️ Tech Stack
 
@@ -59,14 +57,25 @@ I build and run cloud-native platforms with **security-by-design** — and I gen
 
 ### 📦 Things I've built
 
-| | Project | The point | Alive? |
-|---|---|---|---|
-| 🌐 | **[marcobellingeri.dev](https://github.com/MK023/marcobellingeri.dev)** | My site audits itself: CSP by hash (no `unsafe-inline`), live security headers, deploy gated by tests that run on the *built* output. Astro 7 · Cloudflare Workers · Supabase RAG. | **[Live](https://marcobellingeri.dev)** |
-| 🔎 | **[JobSearch](https://github.com/MK023/JobSearch)** | AI job-search platform: CV analysis, gap analysis, cover letters. 1078 tests, 11-stage CI, SonarCloud gate, MCP server for Claude. FastAPI · Claude API · PostgreSQL. | **[Live](https://jobsearches.cc)** |
-| 🅿️ | **[TorinoParking](https://github.com/MK023/TorinoParking)** | Turin parking availability, hardened like it matters: HMAC-SHA256 API keys, multi-tier rate limiting, a written threat model. Native iOS app on the way. FastAPI · PostGIS · Redis. | iOS app in progress |
-| 🐇 | **[RabbitWatch](https://github.com/MK023/RabbitWatch)** | Self-healing monitoring control plane: health checks, RabbitMQ event bus, automated recovery. Prometheus · Grafana · Alertmanager · MongoDB. | — |
-| 🧠 | **[HappyKube](https://github.com/MK023/HappyKube)** | Emotion-analysis Telegram bot with **2+ years of production runtime**. Clean Architecture, Fernet PII encryption. Flask · Groq LLaMA · Redis. | — |
-| 🪟 | **[Vetreria Monferrina](https://github.com/MK023/vetreriamonferrina.com)** | Real client work: a local glazier's website. Astro · Sanity CMS · Lighthouse 100s, WCAG 2.1 AA. | **[Live](https://vetreriamonferrina.com)** |
+<p align="center">
+<a href="https://github.com/MK023/marcobellingeri.dev"><img src="https://opengraph.githubassets.com/1/MK023/marcobellingeri.dev" width="49%" alt="marcobellingeri.dev" /></a>
+<a href="https://github.com/MK023/JobSearch"><img src="https://opengraph.githubassets.com/1/MK023/JobSearch" width="49%" alt="JobSearch" /></a>
+<a href="https://github.com/MK023/TorinoParking"><img src="https://opengraph.githubassets.com/1/MK023/TorinoParking" width="49%" alt="TorinoParking" /></a>
+<a href="https://github.com/MK023/RabbitWatch"><img src="https://opengraph.githubassets.com/1/MK023/RabbitWatch" width="49%" alt="RabbitWatch" /></a>
+<a href="https://github.com/MK023/HappyKube"><img src="https://opengraph.githubassets.com/1/MK023/HappyKube" width="49%" alt="HappyKube" /></a>
+<a href="https://github.com/MK023/vetreriamonferrina.com"><img src="https://opengraph.githubassets.com/1/MK023/vetreriamonferrina.com" width="49%" alt="vetreriamonferrina.com" /></a>
+</p>
+
+🌐 **Live right now:** [marcobellingeri.dev](https://marcobellingeri.dev) · [jobsearches.cc](https://jobsearches.cc) · [vetreriamonferrina.com](https://vetreriamonferrina.com) — running on infrastructure I operate myself.
+
+### 📊 Activity
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/FF5A1F/MK023" alt="Contribution graph" width="100%" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MK023&theme=default&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+</p>
 
 ### 📜 Certifications
 
