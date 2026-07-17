@@ -95,7 +95,6 @@ Freelance **Cloud Platform & Security Engineer**. I take cloud infrastructure th
 ### 📜 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" />
   <img src="https://img.shields.io/badge/Cisco-IT%20Specialist%20Cybersecurity-1BA0D7?style=flat&logo=cisco&logoColor=white" alt="Cisco Cybersecurity" />
   <img src="https://img.shields.io/badge/LPI-Linux%20Essential-FCC624?style=flat&logo=linux&logoColor=black" alt="LPI Linux Essential" />
   <img src="https://img.shields.io/badge/GitHub-Foundations-181717?style=flat&logo=github&logoColor=white" alt="GitHub Foundations" />
