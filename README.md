@@ -65,7 +65,7 @@ Freelance **Cloud Platform & Security Engineer**. I take cloud infrastructure th
   <a href="https://github.com/MK023/marcobellingeri.dev"><img src="https://opengraph.githubassets.com/1/MK023/marcobellingeri.dev" width="49%" alt="marcobellingeri.dev" /></a>
   <a href="https://github.com/MK023/JobSearch"><img src="https://opengraph.githubassets.com/1/MK023/JobSearch" width="49%" alt="JobSearch" /></a>
   <a href="https://github.com/MK023/TorinoParking"><img src="https://opengraph.githubassets.com/1/MK023/TorinoParking" width="49%" alt="TorinoParking" /></a>
-  <a href="https://github.com/MK023/RabbitWatch"><img src="https://opengraph.githubassets.com/1/MK023/RabbitWatch" width="49%" alt="RabbitWatch" /></a>
+  <a href="https://github.com/MK023/llm-council"><img src="https://opengraph.githubassets.com/1/MK023/llm-counsil" width="49%" alt="RabbitWatch" /></a>
   <a href="https://github.com/MK023/HappyKube"><img src="https://opengraph.githubassets.com/1/MK023/HappyKube" width="49%" alt="HappyKube" /></a>
   <a href="https://github.com/MK023/vetreriamonferrina.com"><img src="https://opengraph.githubassets.com/1/MK023/vetreriamonferrina.com" width="49%" alt="vetreriamonferrina.com" /></a>
 </p>
