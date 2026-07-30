@@ -72,8 +72,7 @@ Freelance **Cloud Platform & Security Engineer**. I take cloud infrastructure th
 
 <p align="center">
   🌐 <strong>Live right now:</strong>
-  <a href="https://marcobellingeri.dev">marcobellingeri.dev</a> ·
-  <a href="https://jobsearches.cc">jobsearches.cc</a> ·
+  <a href="https://marcobellingeri.dev">marcobellingeri.dev</a>
   <a href="https://vetreriamonferrina.com">vetreriamonferrina.com</a><br/>
   <sub>running on infrastructure I operate myself</sub>
 </p>
