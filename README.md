@@ -25,15 +25,15 @@
 
 ### 💻 `$ whoami`
 
-Freelance **Cloud Platform & AI Security Engineer**. I work with teams that already have a live system and cannot afford to stop it — the AI they shipped, the cloud it runs on, and the pipeline in between.
+Freelance **Cloud Platform & AI Security Engineer**. My clients already run a live system they can't afford to stop, and most of them have shipped an AI feature into it that nobody has threat modeled yet.
 
-- 🔭 Proof of work: **[marcobellingeri.dev](https://marcobellingeri.dev)** *audits itself* — the Security section reads its own response headers live, the A+ links to a [Mozilla Observatory scan](https://developer.mozilla.org/en-US/observatory/analyze?host=marcobellingeri.dev) anyone can re-run, and every merge to `main` deploys itself through CI.
-- 🤖 **AI security is the day job, not a side interest**: OWASP LLM Top 10 on a RAG that runs in production, prompt injection defence on content that arrives from outside, LLM-as-a-judge as a CI gate, EU AI Act art. 50 transparency, MITRE ATLAS as the threat map.
-- 🔐 **Supply chain, signed**: CycloneDX SBOM and keyless OIDC provenance attestation on every deploy, dependencies pinned by SHA, `zizmor` on the workflows, `gitleaks` across the whole history.
+- 🔭 Proof of work: **[marcobellingeri.dev](https://marcobellingeri.dev)** *audits itself*. The Security section reads its own response headers back out of the live response, the A+ links to a [Mozilla Observatory scan](https://developer.mozilla.org/en-US/observatory/analyze?host=marcobellingeri.dev) anyone can re-run, and every merge to `main` deploys through CI.
+- 🤖 AI security is what I do most days: OWASP LLM Top 10 on a RAG that runs in production, prompt injection defence on content that arrives from outside, an LLM-as-a-judge gate in CI, EU AI Act art. 50 transparency, MITRE ATLAS as the threat map.
+- 🔐 Every deploy ships a CycloneDX SBOM and a keyless OIDC provenance attestation. Dependencies are pinned by SHA, `zizmor` reads the workflows, `gitleaks` reads the whole history.
 - 🖥️ There's a hidden CRT terminal on the site. `⌘K` is one way in. There's another.
 
 <p align="center">
-  <a href="https://cal.eu/marcobellingeri/booking"><strong>📅 Book 30 minutes — free, no commitment</strong></a>
+  <a href="https://cal.eu/marcobellingeri/booking"><strong>📅 Book 30 minutes: free, no commitment</strong></a>
 </p>
 
 ---
@@ -121,7 +121,7 @@ Freelance **Cloud Platform & AI Security Engineer**. I work with teams that alre
 
 ### 📜 Certifications
 
-Ten, curated — the same ten the [site](https://marcobellingeri.dev/#stack) shows, in the same order. They are meant to read as a direction, not as a wall: AI security, supply chain, zero trust.
+Ten of them, the same ten the [site](https://marcobellingeri.dev/#stack) shows and in the same order. They all point the same way: AI security, supply chain, zero trust.
 
 | Certification | Issuer | |
 |---|---|---|
@@ -137,12 +137,12 @@ Ten, curated — the same ten the [site](https://marcobellingeri.dev/#stack) sho
 | GitHub Foundations | GitHub · 2025 | [verify](https://www.credly.com/badges/624312de-77f1-472d-9ae5-03758a81ab63) |
 
 <p align="center">
-  <sub>The other 35 are on <a href="https://credly.com/users/marco-bellingeri">Credly</a> — badges you can click are worth more than badges you can claim.</sub>
+  <sub>The other 35 are on <a href="https://credly.com/users/marco-bellingeri">Credly</a>. Badges you can click are worth more than badges you can claim.</sub>
 </p>
 
 ---
 
 <p align="center">
   <code>guest@bellingeri:~$ exit</code><br/>
-  <sub>© Marco Bellingeri — tutti i diritti, nessun bug in produzione (si spera).</sub>
+  <sub>© Marco Bellingeri, tutti i diritti e nessun bug in produzione (si spera).</sub>
 </p>
