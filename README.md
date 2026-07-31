@@ -94,7 +94,6 @@ Freelance **Cloud Platform & AI Security Engineer**. My clients already run a li
   <a href="https://github.com/MK023/agentic-os"><img src="https://opengraph.githubassets.com/1/MK023/agentic-os" width="49%" alt="agentic-os" /></a>
   <a href="https://github.com/MK023/marcobellingeri.dev"><img src="https://opengraph.githubassets.com/1/MK023/marcobellingeri.dev" width="49%" alt="marcobellingeri.dev" /></a>
   <a href="https://github.com/MK023/TorinoParking"><img src="https://opengraph.githubassets.com/1/MK023/TorinoParking" width="49%" alt="TorinoParking" /></a>
-  <a href="https://github.com/MK023/JobSearch"><img src="https://opengraph.githubassets.com/1/MK023/JobSearch" width="49%" alt="JobSearch" /></a>
 </p>
 
 <p align="center">
