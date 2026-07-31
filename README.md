@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Cloud Platform &amp; AI Security Engineer</strong><br/>
-  I make the AI you put into production secure, and the cloud it runs on.
+  I make production AI systems secure, and the cloud platforms they run on resilient.
 </p>
 
 <p align="center">
@@ -25,10 +25,10 @@
 
 ### 💻 `$ whoami`
 
-Freelance **Cloud Platform & AI Security Engineer**. My clients already run a live system they can't afford to stop, and most of them have shipped an AI feature into it that nobody has threat modeled yet.
+**Cloud Platform & AI Security Engineer**. My clients already run a live system they can't afford to stop, and most of them have shipped an AI feature into it that nobody has threat modeled yet.
 
 - 🔭 Proof of work: **[marcobellingeri.dev](https://marcobellingeri.dev)** *audits itself*. The Security section reads its own response headers back out of the live response, the A+ links to a [Mozilla Observatory scan](https://developer.mozilla.org/en-US/observatory/analyze?host=marcobellingeri.dev) anyone can re-run, and every merge to `main` deploys through CI.
-- 🤖 AI security is what I do most days: OWASP LLM Top 10 on a RAG that runs in production, prompt injection defence on content that arrives from outside, an LLM-as-a-judge gate in CI, EU AI Act art. 50 transparency, MITRE ATLAS as the threat map.
+- 🤖 AI security is what I do most days: OWASP LLM Top 10 applied to production RAG systems, prompt injection defense for external content flows, LLM-as-a-judge evaluation gates in CI, EU AI Act art. 50 transparency requirements, and MITRE ATLAS as a threat modeling reference.
 - 🔐 Every deploy ships a CycloneDX SBOM and a keyless OIDC provenance attestation. Dependencies are pinned by SHA, `zizmor` reads the workflows, `gitleaks` reads the whole history.
 - 🖥️ There's a hidden CRT terminal on the site. `⌘K` is one way in. There's another.
 
@@ -65,8 +65,6 @@ Freelance **Cloud Platform & AI Security Engineer**. My clients already run a li
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
@@ -119,7 +117,7 @@ Freelance **Cloud Platform & AI Security Engineer**. My clients already run a li
 
 ### 📜 Certifications
 
-Ten of them, the same ten the [site](https://marcobellingeri.dev/#stack) shows and in the same order. They all point the same way: AI security, supply chain, zero trust.
+Ten of them, the same ten the [site](https://marcobellingeri.dev/#stack) shows and in the same order. They reinforce the same direction: AI security, secure software supply chain, and cloud security practices.
 
 | Certification | Issuer | |
 |---|---|---|
